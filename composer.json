@@ -15,7 +15,6 @@
             "url": "https://wpackagist.org"
         }
     ],
-   
     "extra": {
     "install-directory-name": "Externaluser"  
   },
