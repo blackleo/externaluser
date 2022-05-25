@@ -1,8 +1,13 @@
 {
     "name": "blackleo/externaluser",
-    "description": "This is description",
+    "description": "This is test",
     "type": "library",
     "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Blackleo\\Externaluser\\": "src/"
+        }
+    },
     "authors": [
         {
             "name": "Mehul Dave",
