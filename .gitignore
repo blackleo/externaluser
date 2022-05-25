@@ -68,5 +68,4 @@ node_modules/
 !wp-content/themes/altitude-pro/
 !wp-content/uploads/
 /vendor
-/composer.phar
-/composer.lock
+
