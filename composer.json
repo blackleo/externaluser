@@ -16,7 +16,7 @@
         }
     ],
     "autoload":{
-        "psr-4": {"RAD_COMPOSER\\":"/"}
+        "psr-4": {"RAD_COMPOSER\\":"/vendor/blackleo/externaluser"}
     },
     "minimum-stability": "stable",
     "require": {}
