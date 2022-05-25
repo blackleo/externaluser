@@ -22,5 +22,5 @@ node_modules/
 *.sql
 *.sqlite
 
-/vendor/
+/vendor
 wp-content/plugins/externaluser
