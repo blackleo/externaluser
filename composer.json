@@ -1,6 +1,6 @@
 {
     "name": "dave/externaluser",
-    "type": "library",
+    "type": "vcs",
     "license": "MIT",
     "authors": [
         {
