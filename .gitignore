@@ -67,5 +67,6 @@ node_modules/
 # add your own entries here
 !wp-content/themes/altitude-pro/
 !wp-content/uploads/
-
-!/composer/blackleo/
+/vendor
+/composer.phar
+/composer.lock
