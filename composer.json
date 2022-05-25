@@ -27,6 +27,6 @@
     "autoload":{
         "psr-4": {"RAD_COMPOSER\\":"/"}
     },
-    "minimum-stability": "stable",
-    "require": {}
+    "minimum-stability": "stable"
+
 }
