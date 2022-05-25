@@ -1,7 +1,7 @@
 {
     "name": "blackleo/externaluser",
     "description": "test",
-    "type": "library",
+    "type": "wordpress-muplugin",
     "license": "MIT",
     "authors": [
         {
