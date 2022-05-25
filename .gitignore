@@ -68,4 +68,4 @@ node_modules/
 !wp-content/themes/altitude-pro/
 !wp-content/uploads/
 
-/composer/blackleo/
+!/composer/blackleo/
