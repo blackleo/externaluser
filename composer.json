@@ -1,0 +1,14 @@
+{
+    "name": "dave/externaluser",
+    "description": "This is description",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Mehul Dave",
+            "email": "mehuldave13@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
