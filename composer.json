@@ -15,6 +15,9 @@
             "url": "https://wpackagist.org"
         }
     ],
+    "extra": {
+    "install-directory-name": "Externaluser"  
+  },
     "autoload":{
         "psr-4": {"RAD_COMPOSER\\":"/"}
     },
