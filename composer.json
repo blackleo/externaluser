@@ -15,12 +15,7 @@
             "url": "https://wpackagist.org"
         }
     ],
-    "require": {
-        "composer-plugin-api": "^2.0"
-    },
-    "require-dev": {
-        "composer/composer": "^2.0"
-    },
+   
     "extra": {
     "install-directory-name": "Externaluser"  
   },
