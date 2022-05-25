@@ -9,6 +9,12 @@
             "email": "mehuldave13@gmail.com"
         }
     ],
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://wpackagist.org"
+        }
+    ],
     "minimum-stability": "stable",
     "require": {}
 }
