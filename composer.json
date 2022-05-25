@@ -1,5 +1,6 @@
 {
     "name": "dave/externaluser",
+    "description": "To create a package from plugin",
     "type": "vcs",
     "license": "MIT",
     "authors": [
