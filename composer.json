@@ -8,5 +8,10 @@
             "email": "mehuldave13@gmail.com"
         }
     ],
+    "autoload": {
+        "psr-4": {
+            "externaluser\\" : "/"
+        }
+    },
     "require": {}
 }
